@@ -5,7 +5,7 @@ ABOUT ME:
 
 - 🔭 I’m currently working on 'Culinary Highway'
 - 🌱 I’m currently learning 'C language and Web-dev'
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on python and web-dev projects
 - 🤔 I’m looking for help with 'programming'
 - 📫 How to reach me: linkedin: https://www.linkedin.com/in/manasvidas/
 - 😄 Pronouns: She/Her
